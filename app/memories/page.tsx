@@ -287,15 +287,15 @@ export default function Memories() {
             <h1 className="text-4xl font-serif mb-40">
               That's all the photos for now
             </h1>
-            <p className="text-2xl mt-50">
+            <p className="text-xl mt-16 md:text-2xl">
               I already have so many incredible memories with you, and it's only been a couple months. We have laughed together harder than I've ever laughed before. We've cried together which is something I never thought could happen. Spending time with you is so easy, easier than anything I've ever done before. You really have become my best friend, not just my girlfriend. The person I can tell anything to, the person I can just sit with. You are my person. <br></br><br></br> </p>
-              <p className="text-2xl">You make me so happy, happier than I ever thought would be possible. You give me a love I never expected to find, and I hope I am able to give you the same back. I can't wait for all the memories we're gonna keep making together. There are still so many firsts to happen and I can't wait to be there. <br></br> <br></br>
+              <p className="text-xl md:text-2xl">You make me so happy, happier than I ever thought would be possible. You give me a love I never expected to find, and I hope I am able to give you the same back. I can't wait for all the memories we're gonna keep making together. There are still so many firsts to happen and I can't wait to be there. <br></br> <br></br>
             </p>
-            <p className="text-2xl">
+            <p className="text-xl md:text-2xl">
               I love you so much, you make me feel like the luckiest boy there ever was, and I'm gonna keep being the luckiest boy as I get to spend my entire life with you. <br></br> <br></br>
             </p>
 
-            <p className="text-2xl">
+            <p className="text-xl md:text-2xl">
               All my love,  <br></br> <br></br> Bug
             </p>
           </div>
