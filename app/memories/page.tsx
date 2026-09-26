@@ -284,9 +284,6 @@ export default function Memories() {
       <section className="relative h-screen snap-start overflow-hidden">
         <div className="absolute inset-0 flex items-end px-8 pb-32 text-white bg-pink-400 md:pb-8">
           <div>
-            <h1 className="text-2xl font-serif mb-40">
-              That's all the photos for now
-            </h1>
             <p className="text-base mt-8 md:text-2xl">
               I already have so many incredible memories with you, and it's only been a couple months. We have laughed together harder than I've ever laughed before. We've cried together which is something I never thought could happen. Spending time with you is so easy, easier than anything I've ever done before. You really have become my best friend, not just my girlfriend. The person I can tell anything to, the person I can just sit with. You are my person. <br></br><br></br> </p>
               <p className="text-base md:text-2xl">You make me so happy, happier than I ever thought would be possible. You give me a love I never expected to find, and I hope I am able to give you the same back. I can't wait for all the memories we're gonna keep making together. There are still so many firsts to happen and I can't wait to be there. <br></br> <br></br>
