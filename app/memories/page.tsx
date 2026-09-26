@@ -36,7 +36,7 @@ export default function Memories() {
 
       <section className="relative h-screen snap-start overflow-hidden">
         <Image
-          src="/Aquarium.jpg"
+          src="/Aquarium.JPG"
           alt="Memory 1"
           fill
           className="object-cover"
