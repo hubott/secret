@@ -129,7 +129,7 @@ export default function Memories() {
         </div>
       </section>
 
-      <section className="relative h-[100svh] snap-start overflow-hidden">
+      <section className="relative h-screen snap-start overflow-hidden">
         <Image
           src="/Pub.JPG"
           alt="Memory 1"
@@ -148,7 +148,7 @@ export default function Memories() {
         </div>
       </section>
 
-      <section className="relative h-[100svh] snap-start overflow-hidden">
+      <section className="relative h-screen snap-start overflow-hidden">
         <Image
           src="/Sussy.jpg"
           alt="Memory 1"
