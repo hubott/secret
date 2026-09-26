@@ -288,7 +288,7 @@ export default function Memories() {
               That's all the photos for now
             </h1>
             <p>
-              
+              A
             </p>
           </div>
         </div>
