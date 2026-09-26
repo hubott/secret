@@ -186,7 +186,7 @@ h1 {
 /* ZOOM */
 
 .image-button.zooming {
-  transform: scale(8);
+  transform: scale(80);
   border-radius: 0;
 }
 

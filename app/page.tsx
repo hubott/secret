@@ -27,8 +27,6 @@ export default function Home() {
   return (
     <main className={`page ${zooming ? "zoom-active" : ""}`}>
       <div className="content">
-        <p className="eyebrow">A little something for you</p>
-
         <h1>Happy Anniversary ❤️</h1>
 
         <p className="subtitle">
@@ -54,7 +52,6 @@ export default function Home() {
             <span>Tap me ♡</span>
           </div>
         </button>
-        <button onClick={() => setClicked(true)} style={{ padding: "20px 40px", fontSize: "20px", cursor: "pointer", }} > {clicked ? "IT WORKS! 🎉" : "TAP ME"} </button>
       </div>
 
       <div
