@@ -55,7 +55,7 @@ export default function Memories() {
 
       <section className="relative h-screen snap-start overflow-hidden">
         <Image
-          src="/Sleeping.jpg"
+          src="/Sleeping.JPG"
           alt="Memory 1"
           fill
           className="object-cover"
@@ -74,7 +74,7 @@ export default function Memories() {
 
       <section className="relative h-screen snap-start overflow-hidden">
         <Image
-          src="/Sunset.jpg"
+          src="/Sunset.JPG"
           alt="Memory 1"
           fill
           className="object-cover"
@@ -93,7 +93,7 @@ export default function Memories() {
 
       <section className="relative h-screen snap-start overflow-hidden">
         <Image
-          src="/Facemask.jpg"
+          src="/Facemask.JPG"
           alt="Memory 1"
           fill
           className="object-cover"
@@ -131,7 +131,7 @@ export default function Memories() {
 
       <section className="relative h-screen snap-start overflow-hidden">
         <Image
-          src="/Pub.jpg"
+          src="/Pub.JPG"
           alt="Memory 1"
           fill
           className="object-cover"
@@ -169,7 +169,7 @@ export default function Memories() {
 
       <section className="relative h-screen snap-start overflow-hidden">
         <Image
-          src="/Birthday.jpg"
+          src="/Birthday.JPG"
           alt="Memory 1"
           fill
           className="object-cover"
@@ -245,7 +245,7 @@ export default function Memories() {
 
       <section className="relative h-screen snap-start overflow-hidden">
         <Image
-          src="/FirstAnniversary.jpg"
+          src="/FirstAnniversary.JPG"
           alt="Memory 1"
           fill
           className="object-cover"
@@ -264,7 +264,7 @@ export default function Memories() {
 
       <section className="relative h-screen snap-start overflow-hidden">
         <Image
-          src="/Makeup.jpg"
+          src="/Makeup.JPG"
           alt="Memory 1"
           fill
           className="object-cover"
