@@ -205,7 +205,7 @@ export default function Memories() {
         </div>
       </section>
 
-      <section className="relative h-[100svh] snap-start overflow-hidden">
+      <section className="relative h-screen snap-start overflow-hidden">
         <Image
           src="/Tully's.jpg"
           alt="Memory 1"
@@ -224,7 +224,7 @@ export default function Memories() {
         </div>
       </section>
 
-      <section className="relative h-[100svh] snap-start overflow-hidden">
+      <section className="relative h-screen snap-start overflow-hidden">
         <Image
           src="/Booth.jpg"
           alt="Memory 1"
@@ -243,7 +243,7 @@ export default function Memories() {
         </div>
       </section>
 
-      <section className="relative h-[100svh] snap-start overflow-hidden">
+      <section className="relative h-screen snap-start overflow-hidden">
         <Image
           src="/FirstAnniversary.JPG"
           alt="Memory 1"
@@ -262,7 +262,7 @@ export default function Memories() {
         </div>
       </section>
 
-      <section className="relative h-[100svh] snap-start overflow-hidden">
+      <section className="relative h-screen snap-start overflow-hidden">
         <Image
           src="/Makeup.JPG"
           alt="Memory 1"
@@ -281,7 +281,7 @@ export default function Memories() {
         </div>
       </section>
 
-      <section className="relative h-[100svh] snap-start overflow-hidden">
+      <section className="relative h-screen snap-start overflow-hidden">
         <div className="absolute inset-0 flex items-end px-8 pb-32 text-white bg-pink-400 md:pb-8">
           <div>
             <h1 className="text-4xl font-serif mb-40">
