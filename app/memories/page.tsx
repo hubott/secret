@@ -282,7 +282,7 @@ export default function Memories() {
       </section>
 
       <section className="relative h-screen snap-start overflow-hidden">
-        <div className="absolute inset-0 flex mx-8 pb-8 text-white bg-pink-400 md:pb-8">
+        <div className="absolute inset-0 flex pt-8 pb-8 text-white bg-pink-400 md:pb-8">
           <div>
             <p className="text-base md:text-2xl">
               I already have so many incredible memories with you, and it's only been a couple months. We have laughed together harder than I've ever laughed before. We've cried together which is something I never thought could happen. Spending time with you is so easy, easier than anything I've ever done before. You really have become my best friend, not just my girlfriend. The person I can tell anything to, the person I can just sit with. You are my person. <br></br><br></br> </p>
