@@ -21,7 +21,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               Our first photo together!
@@ -41,7 +41,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               Our date to the aquarium
@@ -60,7 +60,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               Me sleeping
@@ -79,7 +79,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               When we went to the beach
@@ -98,7 +98,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               When we did facemasks together
@@ -117,7 +117,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               I asked you to be my girlfriend
@@ -136,7 +136,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               At the pub the night after
@@ -155,7 +155,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               Whatever this is
@@ -174,7 +174,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               My Birthday!
@@ -193,7 +193,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               You cuddling with Starbear
@@ -212,7 +212,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               When we went to Tully's
@@ -231,7 +231,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               The photobooth
@@ -250,7 +250,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               Our first pookie day
@@ -269,7 +269,7 @@ export default function Memories() {
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               You doing my makeup
@@ -282,7 +282,7 @@ export default function Memories() {
       </section>
 
       <section className="relative h-[100svh] snap-start overflow-hidden">
-        <div className="absolute inset-0 flex items-end px-8 pb-16 text-white bg-pink-400 md:pb-8">
+        <div className="absolute inset-0 flex items-end px-8 pb-32 text-white bg-pink-400 md:pb-8">
           <div>
             <h1 className="text-4xl font-serif">
               That's all the photos for now
